@@ -1,0 +1,6 @@
+{
+  "name": "Prose Starter Page",
+  "tagline": "A starter site for Jekyll + Prose",
+  "body": "Starter is a barebones starting point for responsive sites built on Jekyll and with\r\nsite management in [prose](http://prose.io). To get started, Fork this repo and [install Jekyll](http://jekyllrb.com/docs/installation).\r\n\r\nTo work on the site locally, run `jekyll serve --watch`, then visit `http://localhost:4000/starter/` in your browser.\r\n\r\nIf you notice any problems or would like to contribute to the project start a discussion from the [issues page](https://github.com/prose/starter/issues)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
